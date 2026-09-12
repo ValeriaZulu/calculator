@@ -157,7 +157,7 @@ export function App() {
         <div className="flex items-center justify-between mb-4 px-2">
           <div className="flex items-center space-x-1 text-[#FFA0B4]">
             <Heart className="w-5 h-5 fill-current" />
-            <span className="font-bold text-sm tracking-wider uppercase text-[#8E7D73]">Sezzle Calc</span>
+            <span className="font-bold text-sm tracking-wider uppercase text-[#8E7D73]">Calculator by ValeZulu</span>
           </div>
           <Sparkles className="w-5 h-5 text-[#FFA0B4]" />
         </div>
